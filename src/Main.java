@@ -5,7 +5,10 @@ public class Main {
 		// TODO 閾ｪ蜍慕函謌舌＆繧後◆繝｡繧ｽ繝�繝峨�ｻ繧ｹ繧ｿ繝�
 		//teste
 		//三澤の編集
-		int mi;
+		int mi=0;
+		
+		//高橋の編集
+		int i=0;
 	}
 
 }
